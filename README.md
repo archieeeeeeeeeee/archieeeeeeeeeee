@@ -54,7 +54,7 @@
 ### 🐾 [WAGS (wags-ph.com)](#)
 A pet adoption and reservation platform with admin dashboard, analytics, and full CRUD management.
 
-### 🌍 [JobsConnect.com.ph](https://jobsconnect.com.ph)
+### 🌍 [jobsconnectmanpoer.com](https://jobsconnectmanpoer.com)
 Global manpower recruitment platform with internal dashboards, applicant management, and content management system.
 
 ### 💼 LPU Systems (2025)
