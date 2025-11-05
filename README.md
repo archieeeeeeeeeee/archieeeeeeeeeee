@@ -57,10 +57,10 @@ A pet adoption and reservation platform with admin dashboard, analytics, and ful
 ### 🌍 [jobsconnectmanpower.com](https://jobsconnectmanpower.com)
 Global manpower recruitment platform with internal dashboards, applicant management, and content management system.
 
-### 💼 LPU Systems (2025)
+### 💼 School Systems (2025)
 Full-stack systems for Lyceum of the Philippines University:
 - **Event Organizer** – Real-time event management with badge printing and notifications  
-- **LPU PX (People Experience)** – Internal HR portal for employees  
+- **School PX (People Experience)** – Internal HR portal for employees  
 - **ICT Support Ticketing System** – Role-based tech support with live TV dashboard  
 - **PIPO on Q** – Queue management system with kiosk & staff dashboard  
 - **RFID Student Tapping System** – Real-time access monitoring with AVM integration  
