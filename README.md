@@ -62,7 +62,7 @@ Full-stack systems for Lyceum of the Philippines University:
 - **Event Organizer** – Real-time event management with badge printing and notifications  
 - **School PX (People Experience)** – Internal HR portal for employees  
 - **ICT Support Ticketing System** – Role-based tech support with live TV dashboard  
-- **PIPO on Q** – Queue management system with kiosk & staff dashboard  
+- **Po on Q** – Queue management system with kiosk & staff dashboard  
 - **RFID Student Tapping System** – Real-time access monitoring with AVM integration  
 
 ### 🧾 Business & Utility Apps
