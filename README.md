@@ -33,44 +33,25 @@
 
 <br><br>
 
-### ⚡ whoami  
+### ⚡ whoami
 
-<div align="center">
+```
+┌───────────────────────────────────────────────┐
+│  ARCHIE O. ANTONE — SYSTEM PROFILE            │
+├───────────────────────────────────────────────┤
+│ • Full-Stack Engineer (React / Next.js / PHP) │
+│ • UI/UX Alchemist — designs that move at 60fps│
+│ • Real-time Systems Builder (Socket.io / WS)  │
+│ • Database Architect (MySQL / PostgreSQL)     │
+│ • Obsessed with speed, clarity, and precision │
+│                                               │
+│  Motto: “Code never lies — but design speaks.”│
+└───────────────────────────────────────────────┘
+```
 
-<img src="https://i.imgur.com/mQ2gE2W.gif" width="80%">
-
-<br>
-
-<!-- Neon Cyberpunk Card -->
-<div style="
-  padding: 25px;
-  border-radius: 18px;
-  border: 2px solid #FF0066;
-  box-shadow: 0 0 15px #FF0066, 0 0 30px #00D4FF inset;
-  background: rgba(5, 10, 20, 0.55);
-  backdrop-filter: blur(6px);
-  width: 85%;
-">
-
-<h2 style="color:#00D4FF; font-weight:900; letter-spacing:3px; text-shadow:0 0 10px #00D4FF;">
-  🧬 SYSTEM PROFILE: ARCHIE O. ANTONE
-</h2>
-
-<p style="color:#E8E8E8; font-size:16px; line-height:1.6; text-shadow:0 0 5px #FF0066;">
-  ⚡ Full-Stack Engineer (React · Next.js · PHP) <br>
-  ⚡ UI/UX Alchemist crafting 60fps smooth interfaces <br>
-  ⚡ Real-time System Architect (Socket.io · WebSockets) <br>
-  ⚡ Database Strategist (MySQL · PostgreSQL) <br>
-  ⚡ Automation Addict & Performance Purist 
+<p align="center">
+  ⚙️ <b>Engineer</b> • 🎨 <b>Designer</b> • 🔥 <b>Optimizer</b> • 🧠 <b>Problem Solver</b>
 </p>
-
-<br>
-
-<div style="color:#00FF9D; font-size:18px; font-weight:600; text-shadow:0 0 10px #00FF9D;">
-  “I don't write code — I assemble realities.”
-</div>
-
-</div>
 
 <br>
 
