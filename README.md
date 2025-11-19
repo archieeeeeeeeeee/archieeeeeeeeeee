@@ -33,24 +33,26 @@
 
 <br><br>
 
-### 🔥 whoami
+### ⚡ whoami
 
-```text
-> 3+ years crafting high-performance, scalable full-stack systems  
-> If it's fast, clean, and pixel-perfect — I built it  
-> Obsessed with 60fps UIs, real-time magic, and cyberpunk aesthetics  
-```
+<div align="center">
 
-• Full-Stack Engineer • UI/UX Alchemist • DevOps Survivor  
-• Automation Addict • Systems Architect • Speed Demon  
+🧩 **Full-Stack Developer**  
+🎨 **UI/UX Alchemist**  
+⚙️ **System Architect**  
+⚡ **Speed-First Engineer**  
 
 <br>
 
-### 🛠 Tech Arsenal
+🔹 3+ years crafting high-performance, real-time systems  
+🔹 Focused on clean structure, fast interfaces, and automation  
+🔹 Loves React, Next.js, PHP, MySQL, Node.js, GSAP, and WebSockets  
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,socketio,php,mysql,git,figma,vercel,linux,gsap,threejs&perline=8&theme=dark"/>
+<br>
 
-<br><br>
+> ⚡ *“I don’t write code. I shape systems.”*
+
+</div>
 
 ### 🚀 Featured Projects
 
