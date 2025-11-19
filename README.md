@@ -1,6 +1,3 @@
- convert_text
-
-content = r"""
 <div align="center">
 
 <img src="https://github.com/archieeeeeeeeeee/archieeeeeeeeeee/blob/main/assets/banner.gif?raw=true" alt="Cyber Banner" width="100%"/>
@@ -13,6 +10,8 @@ content = r"""
 ![](https://img.shields.io/badge/Phone-+63%20905%20753%209670-00FF9D?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=FF0066&center=true&vCenter=true&multiline=true&width=800&lines=Building+the+Future...;One+Pixel+at+a+Time;Welcome+to+My+Digital+Empire" />
+
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
@@ -105,12 +104,6 @@ Built career pages, database forms, dashboards, and automation tools.
 - Known for clean code + futuristic UI style  
 - Full-time freelance developer (local + international clients)
 
----
-
-## 🐍 Contribution Snake  
-<div align="center">
-<img src="https://raw.githubusercontent.com/archieeeeeeeeeee/archieeeeeeeeeee/output/snake.svg"/>
-</div>
 
 ---
 
