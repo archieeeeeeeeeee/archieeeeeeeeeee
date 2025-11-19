@@ -1,31 +1,31 @@
 
 <div align="center">
 
-<!-- Your Original Epic Banner (works perfectly) -->
+<!-- Banner -->
 <img src="https://github.com/archieeeeeeeeeee/archieeeeeeeeeee/blob/main/assets/banner.gif?raw=true" alt="Cyber Banner" width="100%"/>
 
 <br><br>
 
-<!-- Glitch-style Name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=1&pause=2000&color=FF0066&center=true&vCenter=true&repeat=false&width=900&lines=Archie+O.+Antone;Archie+O.+Antone"/>
+<!-- Glitching Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=1&pause=2000&color=FF0066&center=true&vCenter=true&repeat=false&width=900&lines=Archie+O.+Antone;Archie+O.+Antone"/>
 
 <h3>Full-Stack Wizard ⚡ Creative Chaos Engineer ⚡ Pixel Sorcerer</h3>
 
 <br>
 
 <!-- Contact Badges -->
-<img src="https://img.shields.io/badge/Location-Pulong%20Buhangin,%20Sta.%20Maria,%20Bulacan-00D4FF?style=for-the-badge&logo=location-dot&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Email-archieantone123@gmail.com-FF0066?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-<img src="https://img.shields.io/badge/WhatsApp-+63%20905%20753%209670-00FF9D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/Location-Pulong%20Buhangin,%20Sta.%20Maria,%20Bulacan-00D4FF?style=for-the-badge&logo=location-dot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-archieantone123@gmail.com-FF0066?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-+63%20905%20753%209670-00FF9D?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <br><br>
 
-<!-- PERFECTLY FIXED Typing Animation – no cutoff, full width, tall enough -->
+<!-- Perfect Typing SVG (no cutoff ever) -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=45&duration=5000&pause=1200&color=FF0066&background=0D1117&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Building+the+Future...;One+Pixel+at+a+Time;Welcome+to+My+Digital+Empire;Code+Never+Lies;Speed+%26+Precision;Architect+of+the+Web"/>
 
 <br><br>
 
-<!-- Classic Matrix Divider (always works) -->
+<!-- Matrix Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <br><br>
@@ -49,10 +49,33 @@ Obsessed with 60fps animations, real-time apps, and cyber aesthetics
 ### 🛠 Tech Stack // Arsenal.exe
 
 ```yaml
-Frontend:  React • Next.js • TypeScript • TailwindCSS • Framer Motion • Zustand
-Backend:   Node.js • Express • Socket.io • PHP (PDO) • MySQL
-Tools:     Git • Figma • Vercel • Linux • REST • WebSockets
-Design:    GSAP • Canvas • Three.js (when the vibe calls for it)
+frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - TailwindCSS
+  - Framer Motion
+  - Zustand
+
+backend:
+  - Node.js
+  - Express
+  - Socket.io
+  - PHP (PDO)
+  - MySQL
+
+tools:
+  - Git
+  - Figma
+  - Vercel
+  - Linux
+  - REST
+  - WebSockets
+
+design:
+  - GSAP
+  - Canvas
+  - Three.js (when needed)
 ```
 
 <br>
@@ -92,11 +115,11 @@ Design:    GSAP • Canvas • Three.js (when the vibe calls for it)
 
 <br><br>
 
-### 💬 Connect // ping @archie
+### 💬 Connect
 
 **archieantone123@gmail.com**  
 **+63 905 753 9670** (WhatsApp)  
-Portfolio → deploying soon™
+Portfolio deploying soon™
 
 <br><br>
 
@@ -104,16 +127,11 @@ Portfolio → deploying soon™
 
 <br><br>
 
-<!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=archieeeeeeeeeee&color=FF0066&style=for-the-badge&label=PROFILE+INVADERS"/>
 
 <br><br>
 
-<!-- Final Working Matrix Rain (hosted on GitHub, never dies) -->
-<img src="https://github.com/archieeeeeeeeeee/archieeeeeeeeeee/blob/main/assets/matrix-rain.gif?raw=true" width="100%"/>
-
-<!-- Optional: Upload this GIF to your repo first if you want a custom one -->
-<!-- Or use this public one that never breaks: -->
-<!-- <img src="https://media.giphy.com/media/j0Hw7zgN8ddws/giphy.gif" width="100%"/> -->
+<!-- Reliable Matrix Rain Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-b3e1e0e5-0e7b-4c7f-9e9e-2e5f8b5d3f37.gif" width="100%"/>
 
 </div>
