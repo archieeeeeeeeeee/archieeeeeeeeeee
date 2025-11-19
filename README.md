@@ -1,13 +1,12 @@
-
 <div align="center">
 
 <!-- Epic Top Banner -->
 <img src="https://github.com/archieeeeeeeeeee/archieeeeeeeeeee/blob/main/assets/banner.gif?raw=true" alt="Cyber Banner" width="100%"/>
 
-<br><br><br>
+<br>
 
-<!-- Dynamic Name with Glitch Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=4000&pause=1000&color=FF0066&center=true&vCenter=true&width=1000&lines=Archie+O.+Antone;Archie+O.+Antone"/>
+<!-- Dynamic Name with Glitch Effect (FONT FIXED: only supported weight used) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=4000&pause=1000&color=FF0066&center=true&vCenter=true&width=1000&lines=Archie+O.+Antone;Full-Stack+Developer"/>
 
 <h3>
   <span style="color:#00D4FF">Full-Stack Wizard</span> ⚡ 
@@ -17,17 +16,17 @@
 
 <br>
 
-<!-- Contact Badges (auto-centered) -->
-<img src="https://img.shields.io/badge/Location-Pulong%20Buhangin,%20Sta.%20Maria,%20Bulacan-00D4FF?style=for-the-badge&logo=location-dot&logoColor=white"/>
+<!-- Contact Badges -->
+<img src="https://img.shields.io/badge/Location-Pulong%20Buhangin,%20Sta.%20Maria,%20Bulacan-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Email-archieantone123@gmail.com-FF0066?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/WhatsApp-+63%20905%20753%209670-00FF9D?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-<br><br><br>
+<br><br>
 
-<!-- Epic Typing Animation (perfectly centered, no cutoff) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=5000&pause=1500&color=FF0066&background=0D111700&center=true&vCenter=true&multiline=true&width=1500&height=220&lines=Building+the+Future...;One+Pixel+at+a+Time;Welcome+to+My+Digital+Empire;Code+Never+Lies;Speed+is+Everything;Architect+of+the+Web"/>
+<!-- Multi-line typing animation (FONT FIXED) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1300&color=FF0066&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Building+the+Future...;One+Pixel+at+a+Time;Welcome+to+My+Digital+Empire;Code+Never+Lies;Speed+is+Everything"/>
 
-<br><br><br>
+<br>
 
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%"/>
@@ -37,43 +36,43 @@
 ### 🔥 whoami
 
 ```text
-> 3+ years crafting high-performance, scalable full-stack systems
-> If it's fast, clean, and pixel-perfect — I built it
-> Obsessed with 60fps UIs, real-time magic, and cyberpunk aesthetics
+> 3+ years crafting high-performance, scalable full-stack systems  
+> If it's fast, clean, and pixel-perfect — I built it  
+> Obsessed with 60fps UIs, real-time magic, and cyberpunk aesthetics  
 ```
 
 • Full-Stack Engineer • UI/UX Alchemist • DevOps Survivor  
-• Automation Addict • Systems Architect • Speed Demon
+• Automation Addict • Systems Architect • Speed Demon  
 
-<br><br>
+<br>
 
 ### 🛠 Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,socketio,php,mysql,git,figma,vercel,linux,gsap,threejs&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,socketio,php,mysql,git,figma,vercel,linux,gsap,threejs&perline=8&theme=dark"/>
 
 <br><br>
 
 ### 🚀 Featured Projects
 
-| Project             | Description                                                            | Stack                                      |
-|:-------------------:|------------------------------------------------------------------------|--------------------------------------------|
-| Toffee Coffee POS   | Multi-branch POS • Real-time sync • Thermal printing • Analytics     | Next.js • Socket.io • MySQL • Tailwind     |
-| WAGS Pet Adoption   | Full adoption platform • Reservations • Admin dashboard • Email      | PHP • MySQL • Bootstrap • PHPMailer        |
-| JobsConnect         | Global HR system • Career portals • Automation • Dashboards          | Next.js • Node.js • PostgreSQL             |
+| Project             | Description                                                    | Stack                                      |
+|--------------------|----------------------------------------------------------------|--------------------------------------------|
+| **Toffee Coffee POS** | Multi-branch POS • Real-time sync • Analytics • Thermal POS | Next.js • Socket.io • MySQL • Tailwind     |
+| **WAGS Pet Adoption** | Full adoption system • Admin dashboard • Email system       | PHP • MySQL • Bootstrap • PHPMailer        |
+| **JobsConnect**       | Global HR System • Dashboards • Automations                 | Next.js • Node.js • PostgreSQL             |
 
-<br><br>
+<br>
 
 ### 📊 GitHub Matrix
 
 <img src="https://github-readme-stats.vercel.app/api?username=archieeeeeeeeeee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=FF0066&text_color=FFFFFF&icon_color=00D4FF" height="190"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archieeeeeeeeeee&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=FF0066&text_color=FFFFFF" height="190"/>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=archieeeeeeeeeee&theme=tokyonight&hide_border=true&border_radius=20&stroke=FF0066&ring=FF0066&fire=FF0066&currStreakLabel=FF0066" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=archieeeeeeeeeee&theme=tokyonight&hide_border=true&border_radius=20&stroke=FF0066&ring=FF0066&fire=FF0066&currStreakLabel=FF0066"/>
 <img src="https://github-profile-trophy.vercel.app/?username=archieeeeeeeeeee&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=archieeeeeeeeeee&theme=tokyo-night&hide_border=true&line=FF0066&point=00D4FF&area=true&area_color=FF006640&bg_color=0D1117" width="100%"/>
 
@@ -86,25 +85,23 @@
 <img src="https://img.shields.io/badge/Code-Clean%20%26%20Deadly-00FF9D?style=for-the-badge&logo=prettier"/>
 <img src="https://img.shields.io/badge/Clients-Worldwide-FF0066?style=for-the-badge&logo=fiverr"/>
 
-<br><br><br>
+<br><br>
 
 ### 💬 Let's Build Something Insane
 
-**archieantone123@gmail.com** • **+63 905 753 9670** (WhatsApp)  
-Portfolio deploying soon™
-
-<br><br>
+**📧 Email:** archieantone123@gmail.com  
+**📱 WhatsApp:** +63 905 753 9670  
 
 > **"I don't chase trends — I compile the future."** ⚡
 
-<br><br>
+<br>
 
 <!-- Visitor Badge -->
 <img src="https://komarev.com/ghpvc/?username=archieeeeeeeeeee&color=FF0066&style=for-the-badge&label=PROFILE+VISITORS"/>
 
-<br><br>
+<br>
 
-<!-- Final Matrix Rain (100% reliable) -->
+<!-- Final Matrix Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-b3e1e0e5-0e7b-4c7f-9e9e-2e5f8b5d3f37.gif" width="100%"/>
 
 </div>
