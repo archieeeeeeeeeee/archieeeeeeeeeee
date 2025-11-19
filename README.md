@@ -33,42 +33,45 @@
 
 <br><br>
 
-### ⚡ whoami
+### 🔥 whoami
 
-```
-┌───────────────────────────────────────────────┐
-│  ARCHIE O. ANTONE — SYSTEM PROFILE            │
-├───────────────────────────────────────────────┤
-│ • Full-Stack Engineer (React / Next.js / PHP) │
-│ • UI/UX Alchemist — designs that move at 60fps│
-│ • Real-time Systems Builder (Socket.io / WS)  │
-│ • Database Architect (MySQL / PostgreSQL)     │
-│ • Obsessed with speed, clarity, and precision │
-│                                               │
-│  Motto: “Code never lies — but design speaks.”│
-└───────────────────────────────────────────────┘
+```text
+> 3+ years crafting high-performance, scalable full-stack systems  
+> If it's fast, clean, and pixel-perfect — I built it  
+> Obsessed with 60fps UIs, real-time magic, and cyberpunk aesthetics  
 ```
 
-<p align="center">
-  ⚙️ <b>Engineer</b> • 🎨 <b>Designer</b> • 🔥 <b>Optimizer</b> • 🧠 <b>Problem Solver</b>
-</p>
+• Full-Stack Engineer • UI/UX Alchemist • DevOps Survivor  
+• Automation Addict • Systems Architect • Speed Demon  
 
 <br>
 
-<img src="https://i.imgur.com/8wYBJEh.gif" width="90%">
+### 🛠 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,gsap,nodejs,express,php,mysql,postgres,socketio,linux,docker,nginx,vercel,git,github,figma,postman&perline=10&theme=dark"/>
 
 </div>
 
-
 ### 🚀 Featured Projects
 
-| Project             | Description                                                    | Stack                                      |
-|--------------------|----------------------------------------------------------------|--------------------------------------------|
-| **Toffee Coffee POS** | Multi-branch POS • Real-time sync • Analytics • Thermal POS | Next.js • Socket.io • MySQL • Tailwind     |
-| **WAGS Pet Adoption** | Full adoption system • Admin dashboard • Email system       | PHP • MySQL • Bootstrap • PHPMailer        |
-| **JobsConnect**       | Global HR System • Dashboards • Automations                 | Next.js • Node.js • PostgreSQL             |
+**✨ Toffee Coffee POS**  
+`Next.js` · `Socket.io` · `MySQL` · `Tailwind`  
+Multi-branch POS with real-time capabilities and analytics.
 
-<br>
+---
+
+**✨ WAGS Pet Adoption**  
+`PHP` · `MySQL` · `Bootstrap` · `PHPMailer`  
+Complete pet adoption and reservation management system.
+
+---
+
+**✨ JobsConnect**  
+`Next.js` · `Node.js` · `PostgreSQL`  
+Global HR and recruitment automation platform.
+
 
 ### 📊 GitHub Matrix
 
