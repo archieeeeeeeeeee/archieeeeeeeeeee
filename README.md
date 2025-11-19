@@ -33,26 +33,51 @@
 
 <br><br>
 
-### ⚡ whoami
+### ⚡ whoami  
 
 <div align="center">
 
-🧩 **Full-Stack Developer**  
-🎨 **UI/UX Alchemist**  
-⚙️ **System Architect**  
-⚡ **Speed-First Engineer**  
+<img src="https://i.imgur.com/mQ2gE2W.gif" width="80%">
 
 <br>
 
-🔹 3+ years crafting high-performance, real-time systems  
-🔹 Focused on clean structure, fast interfaces, and automation  
-🔹 Loves React, Next.js, PHP, MySQL, Node.js, GSAP, and WebSockets  
+<!-- Neon Cyberpunk Card -->
+<div style="
+  padding: 25px;
+  border-radius: 18px;
+  border: 2px solid #FF0066;
+  box-shadow: 0 0 15px #FF0066, 0 0 30px #00D4FF inset;
+  background: rgba(5, 10, 20, 0.55);
+  backdrop-filter: blur(6px);
+  width: 85%;
+">
+
+<h2 style="color:#00D4FF; font-weight:900; letter-spacing:3px; text-shadow:0 0 10px #00D4FF;">
+  🧬 SYSTEM PROFILE: ARCHIE O. ANTONE
+</h2>
+
+<p style="color:#E8E8E8; font-size:16px; line-height:1.6; text-shadow:0 0 5px #FF0066;">
+  ⚡ Full-Stack Engineer (React · Next.js · PHP) <br>
+  ⚡ UI/UX Alchemist crafting 60fps smooth interfaces <br>
+  ⚡ Real-time System Architect (Socket.io · WebSockets) <br>
+  ⚡ Database Strategist (MySQL · PostgreSQL) <br>
+  ⚡ Automation Addict & Performance Purist 
+</p>
 
 <br>
 
-> ⚡ *“I don’t write code. I shape systems.”*
+<div style="color:#00FF9D; font-size:18px; font-weight:600; text-shadow:0 0 10px #00FF9D;">
+  “I don't write code — I assemble realities.”
+</div>
 
 </div>
+
+<br>
+
+<img src="https://i.imgur.com/8wYBJEh.gif" width="90%">
+
+</div>
+
 
 ### 🚀 Featured Projects
 
