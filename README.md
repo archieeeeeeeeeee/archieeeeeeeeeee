@@ -17,7 +17,7 @@
 <br>
 
 <!-- Contact Badges -->
-<img src="https://img.shields.io/badge/Location-Pulong%20Buhangin,%20Sta.%20Maria,%20Bulacan-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Bulacan-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Email-archieantone123@gmail.com-FF0066?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/WhatsApp-+63%20905%20753%209670-00FF9D?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
